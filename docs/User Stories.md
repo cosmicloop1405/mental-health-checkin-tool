@@ -17,13 +17,27 @@
    - Incorrect password shows an error message  
    - Successful login redirects to the dashboard  
 
-3. **Forgot password**  
+3. **Guided onboarding for first-time users**  
+   As a first-time user, I want a guided walkthrough so I can understand how to use the tool effectively.  
+   **Acceptance Criteria:**  
+   - On first login, user sees onboarding screens/tutorial  
+   - User can skip or complete onboarding  
+   - Onboarding explains key features and how to set preferences  
+
+4. **Handle login errors**  
+   As an employee, I want clear error messages when login fails so I know what went wrong.  
+   **Acceptance Criteria:**  
+   - Shows error for invalid credentials  
+   - Shows error for locked or non-existent account  
+   - Limits number of failed attempts to prevent brute force attacks  
+
+5. **Forgot password**  
    As an employee, I want to reset my password if I forget it so I can regain access.  
    **Acceptance Criteria:**  
    - Password reset link available  
    - Secure reset process with email confirmation  
 
-4. **Logout**  
+6. **Logout**  
    As an employee, I want to log out to keep my data secure.  
    **Acceptance Criteria:**  
    - Logout ends session and returns to login page  
