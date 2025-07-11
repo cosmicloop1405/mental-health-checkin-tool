@@ -31,8 +31,8 @@ Employees often experience stress and mental health challenges but lack easy, re
 - Interested in understanding employee wellness trends to plan interventions.
 
 #### Sample Personas
-- **Arjun, 29 – Support Executive:** Wants a low-effort way to track his mental health weekly.
-- **Priya, 35 – HR Manager:** Uses aggregated insights to design mental health campaigns.
+- **Mark, 29 – Support Executive:** Wants a low-effort way to track his mental health weekly.
+- **Melissa, 35 – HR Manager:** Uses aggregated insights to design mental health campaigns.
 
 ---
 
